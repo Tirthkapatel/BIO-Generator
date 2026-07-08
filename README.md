@@ -1,4 +1,4 @@
-# 🌟 Instagram Bio Generator by CodeCraze 🌟
+# 🌟 Instagram Bio Generator by Tirth 🌟
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -38,17 +38,6 @@ Welcome to the **Instagram Bio Generator**, a sleek and interactive web applicat
 - **JavaScript (Vanilla):** DOM manipulation, bio generation logic, clipboard integration, and theme toggling.
 - **FontAwesome:** Scalable vector icons.
 - **Google Fonts (Inter):** Clean and modern typography.
-
-## 📸 Screenshots
-
-*(Add screenshots of your application here to showcase the beautiful UI!)*
-
-<!-- Example: 
-<div style="display: flex; gap: 10px;">
-  <img src="path/to/light-mode-screenshot.png" alt="Light Mode" width="45%"> 
-  <img src="path/to/dark-mode-screenshot.png" alt="Dark Mode" width="45%">
-</div> 
--->
 
 ## 🤝 Contributing
 
